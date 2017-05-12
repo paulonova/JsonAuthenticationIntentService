@@ -35,6 +35,7 @@ public class MyService extends IntentService {
             response = HttpHelper.downloadUrl(uri.toString(), USER, PASSWORD);
 
         } catch (IOException e) {
+            /**Broadcast the exception*/
             e.printStackTrace();
             Intent messageIntent = new Intent(MY_SERVICE_MESSAGE);
             messageIntent.putExtra(MY_SERVICE_EXCEPTION, e.getMessage());
