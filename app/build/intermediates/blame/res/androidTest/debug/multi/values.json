@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\ONLINE_PIZZA\\LYNDA_COM\\Exercise Files\\Ch03\\03_06\\Authenticate\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Paulo Vila Nova\\.android\\build-cache\\cf157de3c9de0d28626f03ff2395a90229d4e7b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
